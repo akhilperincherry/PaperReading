@@ -6,6 +6,8 @@ A place to keep track of the papers I've been reading.
 
 ### 3D object detection
 
+#### Vision based
+
 * [3D Bounding Box Estimation Using Deep Learning and Geometry](https://arxiv.org/abs/1612.00496)
 
 * [3D Bounding Box Estimation for Autonomous Vehicles by Cascaded Geometric Constraints](https://arxiv.org/abs/1909.01867)
@@ -16,6 +18,33 @@ A place to keep track of the papers I've been reading.
 
 * [YOLO 3D](https://arxiv.org/pdf/1808.02350.pdf)
 
+* [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/pdf/1711.08488.pdf)
+
+* [Objects as Points (CenterNet)](https://arxiv.org/pdf/1904.07850.pdf)
+
+#### Point-cloud based
+
+* [Point Pillars](https://arxiv.org/pdf/1812.05784.pdf)
+
+* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
+
+* [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection](https://arxiv.org/pdf/1912.13192.pdf)
+
+* [Center-based 3D Object Detection and Tracking (CenterPoint)](https://arxiv.org/pdf/2006.11275.pdf)
+
+* [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf%20em%2017/12/2017.pdf)
+
+* [SECOND](https://pdfs.semanticscholar.org/5125/a16039cabc6320c908a4764f32596e018ad3.pdf)
+
+* [SVGA-Net](https://arxiv.org/pdf/2006.04043.pdf)
+
+### Object Tracking
+
+* [DeepSORT](https://arxiv.org/pdf/1703.07402.pdf)
+
+* [SORT](https://arxiv.org/pdf/1602.00763.pdf)
+
+* [FairMOT](https://arxiv.org/pdf/2004.01888.pdf)
 
 ### GANs, Domain translation, VAEs
 
@@ -83,10 +112,6 @@ Segmentation](https://arxiv.org/pdf/2005.10821.pdf)
 * [Adaptive dropout for training deep neural networks](https://papers.nips.cc/paper/5032-adaptive-dropout-for-training-deep-neural-networks.pdf)
 
 * [LPIPS](https://arxiv.org/pdf/1801.03924.pdf)
-
-* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
-
-* [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/pdf/1711.08488.pdf)
 
 * [Depth Estimation from Monocular Images and Sparse Radar Data](https://arxiv.org/pdf/2010.00058.pdf)
 
