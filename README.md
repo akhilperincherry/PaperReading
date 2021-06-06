@@ -46,7 +46,11 @@ A place to keep track of the papers I've been reading.
 
 * [FairMOT](https://arxiv.org/pdf/2004.01888.pdf)
 
+* [Tracking Objects as Points](https://arxiv.org/pdf/2004.01177.pdf)
+
 ### GANs, Domain translation, VAEs
+
+* [DriveGAN](https://arxiv.org/pdf/2104.15060.pdf)
 
 * [NVAE: A Deep Hierarchical Variational Autoencoder](https://arxiv.org/pdf/2007.03898.pdf)
 
@@ -124,6 +128,9 @@ Segmentation](https://arxiv.org/pdf/2005.10821.pdf)
 * [A Deep Learning-based Radar and Camera Sensor Fusion Architecture for Object Detection](https://www.astyx.com/fileadmin/redakteur/dokumente/Automotive_Radar_Dataset_for_Deep_learning_Based_3D_Object_Detection.PDF)
 
 * [RRPN: Radar region proposal network for object detection in autonomous vehicles](https://arxiv.org/abs/1905.00526)
+
+* [GRIF Net: Gated Region of Interest Fusion Network for Robust
+3D Object Detection from Radar Point Cloud and Monocular Image](http://ras.papercept.net/images/temp/IROS/files/1580.pdf)
 
 ## Other Links
 
